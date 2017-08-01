@@ -5,10 +5,10 @@ Librării necesare:
 2.TFT_ILI9163C
 3.SparkFunBME280
 
-Pentru a instala o librărie urmați acești pași:
+Pentru a instala o bibliotecă urmați acești pași:
 1.Deschideți Arduino IDE
 2.Selectați Sketch> Include Library > Add .zip library
-3.Acum adăugați pe rând librăriile necesare.
+3.Acum adăugați pe rând bibliotecile necesare.
 4.Reporniți Arduino IDE
 
 Link-uri către produsele folosite:
