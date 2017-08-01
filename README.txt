@@ -10,3 +10,9 @@ Pentru a instala o librărie urmați acești pași:
 2.Selectați Sketch> Include Library > Add .zip library
 3.Acum adăugați pe rând librăriile necesare.
 4.Reporniți Arduino IDE
+
+Link-uri către produsele folosite:
+LCD TFT: https://goo.gl/ftPKpv ;
+BMP280 GY: https://goo.gl/W9qEGT ;
+Clona Arduino Uno: https://goo.gl/75w4k5 ;
+Kit Breadboard: https://goo.gl/CGP1ZY ;
